@@ -3,11 +3,17 @@ Andre Evans | Southern New Hampshire University**
 
 This portfolio contains the contact service code and JUnit tests from Project One, along with my summary and reflections report from Project Two. These projects show how I used software requirements to develop Java classes, test their behavior, and evaluate software quality.
 Portfolio Artifacts
+
 File	Description
+
 [Contact.java](Contact.java)	Stores contact information and validates field requirements.
+
 [ContactService.java](ContactService.java)	Adds, retrieves, updates, and deletes contacts using unique IDs.
+
 [ContactTest.java](ContactTest.java)	Tests contact creation, field limits, invalid inputs, and updates.
+
 [ContactServiceTest.java](ContactServiceTest.java)	Tests service operations, duplicate IDs, and changes to the correct contact.
+
 [Project Two Summary and Reflections](Andre_Evans_CS320_Project_Two_Summary_and_Reflections.docx)	Explains my testing approach, results, techniques, and lessons learned.
 
 The Java tests use JUnit 5. To run them, add the four Java files to a Java project with JUnit 5 available and run ContactTest and ContactServiceTest as JUnit tests.
