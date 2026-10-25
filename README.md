@@ -1,5 +1,6 @@
 **CS 320: Software Test Automation and Quality Assurance
 Andre Evans | Southern New Hampshire University**
+
 This portfolio contains the contact service code and JUnit tests from Project One, along with my summary and reflections report from Project Two. These projects show how I used software requirements to develop Java classes, test their behavior, and evaluate software quality.
 Portfolio Artifacts
 File	Description
